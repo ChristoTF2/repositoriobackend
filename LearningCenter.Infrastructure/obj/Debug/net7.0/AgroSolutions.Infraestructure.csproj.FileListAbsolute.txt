@@ -1,0 +1,57 @@
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Infrastructure\bin\Debug\net7.0\AgroSolutions.Infraestructure.deps.json
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Infrastructure\bin\Debug\net7.0\AgroSolutions.Infraestructure.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Infrastructure\bin\Debug\net7.0\AgroSolutions.Infraestructure.pdb
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Infrastructure\bin\Debug\net7.0\AgroSolutions.Domain.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Infrastructure\bin\Debug\net7.0\AgroSolutions.Shared.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Infrastructure\bin\Debug\net7.0\AgroSolutions.Domain.pdb
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Infrastructure\bin\Debug\net7.0\AgroSolutions.Shared.pdb
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Infrastructure\obj\Debug\net7.0\AgroSolutions.Infraestructure.csproj.AssemblyReference.cache
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Infrastructure\obj\Debug\net7.0\AgroSolutions.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Infrastructure\obj\Debug\net7.0\AgroSolutions.Infraestructure.AssemblyInfoInputs.cache
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Infrastructure\obj\Debug\net7.0\AgroSolutions.Infraestructure.AssemblyInfo.cs
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Infrastructure\obj\Debug\net7.0\AgroSolutions.Infraestructure.csproj.CoreCompileInputs.cache
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Infrastructure\obj\Debug\net7.0\AgroSolutions.Infraestructure.csproj.CopyComplete
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Infrastructure\obj\Debug\net7.0\AgroSolutions.Infraestructure.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Infrastructure\obj\Debug\net7.0\refint\AgroSolutions.Infraestructure.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Infrastructure\obj\Debug\net7.0\AgroSolutions.Infraestructure.pdb
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Infrastructure\obj\Debug\net7.0\ref\AgroSolutions.Infraestructure.dll
+D:\.NET\Backend web\AgroSolutions_Web_Services\LearningCenter.Infrastructure\bin\Debug\net7.0\AgroSolutions.Infraestructure.deps.json
+D:\.NET\Backend web\AgroSolutions_Web_Services\LearningCenter.Infrastructure\bin\Debug\net7.0\AgroSolutions.Infraestructure.dll
+D:\.NET\Backend web\AgroSolutions_Web_Services\LearningCenter.Infrastructure\bin\Debug\net7.0\AgroSolutions.Infraestructure.pdb
+D:\.NET\Backend web\AgroSolutions_Web_Services\LearningCenter.Infrastructure\bin\Debug\net7.0\AgroSolutions.Domain.dll
+D:\.NET\Backend web\AgroSolutions_Web_Services\LearningCenter.Infrastructure\bin\Debug\net7.0\AgroSolutions.Shared.dll
+D:\.NET\Backend web\AgroSolutions_Web_Services\LearningCenter.Infrastructure\bin\Debug\net7.0\AgroSolutions.Domain.pdb
+D:\.NET\Backend web\AgroSolutions_Web_Services\LearningCenter.Infrastructure\bin\Debug\net7.0\AgroSolutions.Shared.pdb
+D:\.NET\Backend web\AgroSolutions_Web_Services\LearningCenter.Infrastructure\obj\Debug\net7.0\AgroSolutions.Infraestructure.csproj.AssemblyReference.cache
+D:\.NET\Backend web\AgroSolutions_Web_Services\LearningCenter.Infrastructure\obj\Debug\net7.0\AgroSolutions.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Backend web\AgroSolutions_Web_Services\LearningCenter.Infrastructure\obj\Debug\net7.0\AgroSolutions.Infraestructure.AssemblyInfoInputs.cache
+D:\.NET\Backend web\AgroSolutions_Web_Services\LearningCenter.Infrastructure\obj\Debug\net7.0\AgroSolutions.Infraestructure.AssemblyInfo.cs
+D:\.NET\Backend web\AgroSolutions_Web_Services\LearningCenter.Infrastructure\obj\Debug\net7.0\AgroSolutions.Infraestructure.csproj.CoreCompileInputs.cache
+D:\.NET\Backend web\AgroSolutions_Web_Services\LearningCenter.Infrastructure\obj\Debug\net7.0\AgroSolutions.Infraestructure.csproj.CopyComplete
+D:\.NET\Backend web\AgroSolutions_Web_Services\LearningCenter.Infrastructure\obj\Debug\net7.0\AgroSolutions.Infraestructure.dll
+D:\.NET\Backend web\AgroSolutions_Web_Services\LearningCenter.Infrastructure\obj\Debug\net7.0\refint\AgroSolutions.Infraestructure.dll
+D:\.NET\Backend web\AgroSolutions_Web_Services\LearningCenter.Infrastructure\obj\Debug\net7.0\AgroSolutions.Infraestructure.pdb
+D:\.NET\Backend web\AgroSolutions_Web_Services\LearningCenter.Infrastructure\obj\Debug\net7.0\ref\AgroSolutions.Infraestructure.dll
+D:\.NET\Backend web\AgroSolutions_Web_Services\LearningCenter.Infrastructure\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\.NET\Backend web\AgroSolutions_Web_Services\LearningCenter.Infrastructure\bin\Debug\net7.0\System.IO.Pipelines.dll
+D:\.NET\Backend web\AgroSolutions_Web_Services\LearningCenter.Infrastructure\bin\Debug\net7.0\Microsoft.Extensions.Features.dll
+D:\.NET\Backend web\AgroSolutions_Web_Services\LearningCenter.Infrastructure\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Features.dll
+D:\.NET\Backend web\AgroSolutions_Web_Services\LearningCenter.Infrastructure\bin\Debug\net7.0\Microsoft.Net.Http.Headers.dll
+D:\.NET\Backend web\AgroSolutions_Web_Services\LearningCenter.Infrastructure\bin\Debug\net7.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\LearningCenter.Infrastructure\bin\Debug\net7.0\AgroSolutions.Infraestructure.deps.json
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\LearningCenter.Infrastructure\bin\Debug\net7.0\AgroSolutions.Infraestructure.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\LearningCenter.Infrastructure\bin\Debug\net7.0\AgroSolutions.Infraestructure.pdb
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\LearningCenter.Infrastructure\bin\Debug\net7.0\AgroSolutions.Domain.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\LearningCenter.Infrastructure\bin\Debug\net7.0\AgroSolutions.Shared.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\LearningCenter.Infrastructure\bin\Debug\net7.0\AgroSolutions.Domain.pdb
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\LearningCenter.Infrastructure\bin\Debug\net7.0\AgroSolutions.Shared.pdb
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\LearningCenter.Infrastructure\obj\Debug\net7.0\AgroSolutions.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\LearningCenter.Infrastructure\obj\Debug\net7.0\AgroSolutions.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\LearningCenter.Infrastructure\obj\Debug\net7.0\AgroSolutions.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\LearningCenter.Infrastructure\obj\Debug\net7.0\AgroSolutions.Infraestructure.AssemblyInfo.cs
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\LearningCenter.Infrastructure\obj\Debug\net7.0\AgroSolutions.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\LearningCenter.Infrastructure\obj\Debug\net7.0\AgroSolutions.Infraestructure.csproj.CopyComplete
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\LearningCenter.Infrastructure\obj\Debug\net7.0\AgroSolutions.Infraestructure.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\LearningCenter.Infrastructure\obj\Debug\net7.0\refint\AgroSolutions.Infraestructure.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\LearningCenter.Infrastructure\obj\Debug\net7.0\AgroSolutions.Infraestructure.pdb
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\LearningCenter.Infrastructure\obj\Debug\net7.0\ref\AgroSolutions.Infraestructure.dll

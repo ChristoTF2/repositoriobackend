@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <RootNamespace>_2_Domain</RootNamespace>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\LearningCenter.Infrastructure\AgroSolutions.Infraestructure.csproj" />
+        <ProjectReference Include="..\AgroSolutions.Shared\AgroSolutions.Shared.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <PackageReference Include="AutoMapper" Version="12.0.1"/>
+        <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1"/>
+        <PackageReference Include="BCrypt.Net" Version="0.1.0" />
+        <PackageReference Include="HiNetCloud.Microsoft.IdentityModel.JsonWebTokens" Version="23.10.8.15" />
+        <PackageReference Include="Microsoft.IdentityModel.JsonWebTokens" Version="7.6.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Domain\" />
+      <Folder Include="Mtk\" />
+      <Folder Include="Publishing\CommandServices\" />
+      <Folder Include="Publishing\QueryServices\" />
+      <Folder Include="Purchase\" />
+    </ItemGroup>
+
+</Project>

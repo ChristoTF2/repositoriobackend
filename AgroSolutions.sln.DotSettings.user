@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5dc124a6_002Da937_002D46c1_002Db274_002Dc0c2e87d47d4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="FinanceControllerUnitTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::ED1184D5-26FD-4CA6-B3CC-FB8BF41131D3::net7.0::TestProject1LearningCenter.Presetation.Test.FinanceControllerUnitTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::ED1184D5-26FD-4CA6-B3CC-FB8BF41131D3::net7.0::TestProject1LearningCenter.Presetation.Test.PendingCollectionsControllerUnitTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::4CC3E192-E654-461B-8A9D-2B0E956837C4::net7.0::Application.Test.FinanceApplicationUnitTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::4CC3E192-E654-461B-8A9D-2B0E956837C4::net7.0::Application.Test.PendingCollectionsUnitTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

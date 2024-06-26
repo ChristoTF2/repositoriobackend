@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "LearningCenter.Domain/1.0.0": {
+        "dependencies": {
+          "LearningCenter.Shared": "1.0.0"
+        },
+        "runtime": {
+          "LearningCenter.Domain.dll": {}
+        }
+      },
+      "LearningCenter.Shared/1.0.0": {
+        "runtime": {
+          "LearningCenter.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LearningCenter.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LearningCenter.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,647 @@
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\CoverletSourceRootsMapping
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\testhost.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\AgroSolutions.Presentation.deps.json
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\AgroSolutions.Presentation.runtimeconfig.json
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\appsettings.Development.json
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\appsettings.json
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\AgroSolutions.Presentation.exe
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\testhost.exe
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\xunit.runner.reporters.netcoreapp10.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\xunit.runner.utility.netcoreapp10.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\AgroSolutions.Presentation.Test.deps.json
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\AgroSolutions.Presentation.Test.runtimeconfig.json
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\AgroSolutions.Presentation.Test.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\AgroSolutions.Presentation.Test.pdb
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\AutoMapper.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Castle.Core.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Humanizer.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.Build.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Moq.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\MySqlConnector.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\NuGet.Common.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\NuGet.Configuration.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\NuGet.Frameworks.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\NuGet.LibraryModel.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\NuGet.Packaging.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\NuGet.ProjectModel.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\NuGet.Protocol.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\NuGet.Versioning.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\System.Composition.Convention.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\System.Composition.Hosting.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\System.Composition.Runtime.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\System.Composition.TypedParts.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\xunit.abstractions.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\xunit.assert.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\xunit.core.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\xunit.execution.dotnet.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\af\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ar\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\az\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\bg\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\cs\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\da\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\de\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\el\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\es\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\fa\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\fr\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\he\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\hr\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\hu\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\hy\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\id\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\is\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\it\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ja\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ku\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\lv\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\mt\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\nb\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\nl\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pl\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pt\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ro\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ru\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\sk\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\sl\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\sr\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\sv\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\tr\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\uk\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\vi\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\AgroSolutions.Application.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\AgroSolutions.Domain.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\AgroSolutions.Infraestructure.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\AgroSolutions.Presentation.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\AgroSolutions.Shared.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\AgroSolutions.Application.pdb
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\AgroSolutions.Infraestructure.pdb
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\AgroSolutions.Presentation.pdb
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\AgroSolutions.Presentation.xml
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\AgroSolutions.Domain.pdb
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\bin\Debug\net7.0\AgroSolutions.Shared.pdb
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\obj\Debug\net7.0\AgroSolutions.Presentation.Test.csproj.AssemblyReference.cache
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\obj\Debug\net7.0\AgroSolutions.Presentation.Test.GeneratedMSBuildEditorConfig.editorconfig
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\obj\Debug\net7.0\AgroSolutions.Presentation.Test.AssemblyInfoInputs.cache
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\obj\Debug\net7.0\AgroSolutions.Presentation.Test.AssemblyInfo.cs
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\obj\Debug\net7.0\AgroSolutions.Presentation.Test.csproj.CoreCompileInputs.cache
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\obj\Debug\net7.0\AgroSolutions.Presentation.Test.csproj.CopyComplete
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\obj\Debug\net7.0\AgroSolutions.Presentation.Test.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\obj\Debug\net7.0\refint\AgroSolutions.Presentation.Test.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\obj\Debug\net7.0\AgroSolutions.Presentation.Test.pdb
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\obj\Debug\net7.0\AgroSolutions.Presentation.Test.genruntimeconfig.cache
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Presentation.Test\obj\Debug\net7.0\ref\AgroSolutions.Presentation.Test.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\CoverletSourceRootsMapping
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\testhost.exe
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\testhost.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\AgroSolutions.Presentation.deps.json
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\AgroSolutions.Presentation.runtimeconfig.json
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\appsettings.json
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\AgroSolutions.Presentation.exe
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\AgroSolutions.Presentation.Test.deps.json
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\AgroSolutions.Presentation.Test.runtimeconfig.json
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\AgroSolutions.Presentation.Test.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\AgroSolutions.Presentation.Test.pdb
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\BCrypt.Net.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Moq.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\xunit.abstractions.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\xunit.assert.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\xunit.core.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\xunit.execution.dotnet.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\AgroSolutions.Application.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\AgroSolutions.Domain.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\AgroSolutions.Infraestructure.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\AgroSolutions.Presentation.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\AgroSolutions.Shared.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\AgroSolutions.Application.pdb
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\AgroSolutions.Infraestructure.pdb
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\AgroSolutions.Presentation.pdb
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\AgroSolutions.Presentation.xml
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\AgroSolutions.Domain.pdb
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\bin\Debug\net7.0\AgroSolutions.Shared.pdb
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\obj\Debug\net7.0\AgroSolutions.Presentation.Test.csproj.AssemblyReference.cache
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\obj\Debug\net7.0\AgroSolutions.Presentation.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\obj\Debug\net7.0\AgroSolutions.Presentation.Test.AssemblyInfoInputs.cache
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\obj\Debug\net7.0\AgroSolutions.Presentation.Test.AssemblyInfo.cs
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\obj\Debug\net7.0\AgroSolutions.Presentation.Test.csproj.CoreCompileInputs.cache
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\obj\Debug\net7.0\AgroSolutions.Presentation.Test.csproj.CopyComplete
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\obj\Debug\net7.0\AgroSolutions.Presentation.Test.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\obj\Debug\net7.0\refint\AgroSolutions.Presentation.Test.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\obj\Debug\net7.0\AgroSolutions.Presentation.Test.pdb
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\obj\Debug\net7.0\AgroSolutions.Presentation.Test.genruntimeconfig.cache
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Presentation.Test\obj\Debug\net7.0\ref\AgroSolutions.Presentation.Test.dll

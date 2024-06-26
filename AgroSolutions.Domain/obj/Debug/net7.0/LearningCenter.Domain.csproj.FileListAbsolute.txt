@@ -1,0 +1,15 @@
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Domain\bin\Debug\net7.0\LearningCenter.Domain.deps.json
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Domain\bin\Debug\net7.0\LearningCenter.Domain.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Domain\bin\Debug\net7.0\LearningCenter.Domain.pdb
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Domain\bin\Debug\net7.0\LearningCenter.Shared.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Domain\bin\Debug\net7.0\LearningCenter.Shared.pdb
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Domain\obj\Debug\net7.0\LearningCenter.Domain.csproj.AssemblyReference.cache
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Domain\obj\Debug\net7.0\LearningCenter.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Domain\obj\Debug\net7.0\LearningCenter.Domain.AssemblyInfoInputs.cache
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Domain\obj\Debug\net7.0\LearningCenter.Domain.AssemblyInfo.cs
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Domain\obj\Debug\net7.0\LearningCenter.Domain.csproj.CoreCompileInputs.cache
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Domain\obj\Debug\net7.0\LearningCenter.Domain.csproj.CopyComplete
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Domain\obj\Debug\net7.0\LearningCenter.Domain.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Domain\obj\Debug\net7.0\refint\LearningCenter.Domain.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Domain\obj\Debug\net7.0\LearningCenter.Domain.pdb
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Domain\obj\Debug\net7.0\ref\LearningCenter.Domain.dll

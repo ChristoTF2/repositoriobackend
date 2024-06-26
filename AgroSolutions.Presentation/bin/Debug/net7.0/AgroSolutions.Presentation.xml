@@ -1,0 +1,416 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AgroSolutions.Presentation</name>
+    </assembly>
+    <members>
+        <member name="M:Presentation.BlogController.GetAsync">
+            <summary>Obtain all the active blog</summary>
+             <remarks>
+             GET api/v1/Blog
+               </remarks>
+             <response code="200">Returns all the blog</response>
+             <response code="404">If there are no blog</response>
+             <response code="500">If there is an internal server error</response>
+        </member>
+        <member name="M:Presentation.BlogController.GetAsync(System.Int32)">
+             GET: api/v1/Blog/5
+            <summary>Obtain the active Blog</summary>
+             <remarks>
+             GET: api/v1/Blog/5
+               </remarks>
+             <response code="200">Returns all the Blog</response>
+             <response code="404">If there are no Blog</response>
+             <response code="500">If there is an internal server error</response>
+        </member>
+        <member name="M:Presentation.BlogController.GetByRoleBlogSearchAsync(System.String)">
+            <summary>Obtain all the active blog</summary>
+             <remarks>
+             GET api/Blog/SearchRole
+               </remarks>
+             <response code="200">Returns all the blog</response>
+             <response code="404">If there are no blog</response>
+             <response code="500">If there is an internal server error</response>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:Presentation.BlogController.PostAsync(LearningCenter.Domain.Blog.Models.Commands.CreateBlogCommand)" -->
+        <member name="M:Presentation.Controllers.CropController.PostCalendarAsync(Presentation.Request.CreateCalendarCommand)">
+            <summary>
+            Creates a new calendar.
+            </summary>
+            <returns>Returns the ID of the created calendar or an error if creation fails.</returns>
+            <response code="201">If the calendar is successfully created, returns the ID of the calendar.</response>
+            <response code="400">If there is an issue with the request, returns a BadRequest error.</response>
+            <response code="409">If there is a conflict in creating the calendar, returns a Conflict error.</response>
+            <response code="500">If there is an internal server error, returns an InternalServerError error.</response>
+        </member>
+        <member name="M:Presentation.Controllers.CropController.PostCropsAsync(Presentation.Request.CreateCropsCommand)">
+            <summary>
+            Creates new crops.
+            </summary>
+            <param name="command">The command to create crops.</param>
+            <returns>Returns the ID of the created crops or an error if they cannot be created.</returns>
+            <response code="201">If the crops are successfully created, returns the crops' ID.</response>
+            <response code="400">If there is a problem with the request, returns a BadRequest error.</response>
+            <response code="409">If there is a conflict when creating the crops, returns a Conflict error.</response>
+            <response code="500">If there is an internal server error, returns an InternalServerError error.</response>
+        </member>
+        <member name="M:Presentation.Controllers.CropController.PostAdviserAsync(Presentation.Request.CreateAdviserCommand)">
+            <summary>
+            Creates a new advisor.
+            </summary>
+            <param name="command">The command to create an advisor.</param>
+            <returns>Returns the ID of the created advisor or an error if it cannot be created.</returns>
+            <response code="201">If the advisor is successfully created, returns the advisor's ID.</response>
+            <response code="400">If there is a problem with the request, returns a BadRequest error.</response>
+            <response code="409">If there is a conflict when creating the advisor, returns a Conflict error.</response>
+            <response code="500">If there is an internal server error, returns an InternalServerError error.</response>
+        </member>
+        <member name="M:Presentation.Controllers.CropController.GetAllAdvisersAsync">
+            <summary>
+            Retrieves all advisors.
+            </summary>
+            <returns>Returns a list of advisors or an error if none are found.</returns>
+            <response code="200">If advisors are found, returns the list of advisors.</response>
+            <response code="404">If no advisors are found, returns a NotFound error.</response>
+        </member>
+        <member name="M:Presentation.Controllers.CropController.GetAdviserAsync(System.Int32)">
+            <summary>
+            Retrieves an advisor by their identifier.
+            </summary>
+            <param name="id">Enter the id of the advisor to retrieve:</param>
+            <returns>Returns the advisor if found or an error if not found.</returns>
+            <response code="200">If the advisor is found, returns the advisor.</response>
+            <response code="404">If the advisor is not found, returns a NotFound error.</response>
+        </member>
+        <member name="M:Presentation.Controllers.CropController.GetCalendarByIdAsync(System.Int32)">
+            <summary>
+            Retrieves a calendar by its identifier.
+            </summary>
+            <param name="id">Enter the id of the calendar to retrieve:</param>
+            <returns>Returns the calendar if found or an error if not found.</returns>
+            <response code="200">If the calendar is found, returns the calendar.</response>
+            <response code="404">If the calendar is not found, returns a NotFound error.</response>
+        </member>
+        <member name="M:Presentation.Controllers.CropController.GetCropsAsync(System.Int32)">
+            <summary>
+            Retrieves the crops by their identifier.
+            </summary>
+            <param name="id">Enter the id of the crops to retrieve:</param>
+            <returns>Returns the crops if found or an error if not found.</returns>
+            <response code="200">If the crops are found, returns the crops.</response>
+            <response code="404">If the crops are not found, returns a NotFound error.</response>
+        </member>
+        <member name="M:Presentation.Controllers.CropController.GetCalendarsForCultivoAsync(System.Int32)">
+            <summary>
+            Retrieves all calendars for a specific crop.
+            </summary>
+            <param name="cultivoId">Enter the id of the crop to retrieve the calendars for:</param>
+            <returns>Returns a list of calendars or an error if none are found.</returns>
+            <response code="200">If calendars are found, returns the list of calendars.</response>
+            <response code="404">If no calendars are found, returns a NotFound error.</response>
+        </member>
+        <member name="M:Presentation.Controllers.CropController.GetAllCropsAsync">
+            <summary>
+            Retrieves all crops.
+            </summary>
+            <returns>Returns a list of crops or an error if none are found.</returns>
+            <response code="200">If crops are found, returns the list of crops.</response>
+            <response code="404">If no crops are found, returns a NotFound error.</response>
+        </member>
+        <member name="M:Presentation.Controllers.FinanceController.GetAsync">
+            <summary>Obtain all the active finances</summary>
+             <remarks>
+             GET /api/Finance
+               </remarks>
+             <response code="200">Returns all the finances</response>
+             <response code="404">If there are no finances</response>
+             <response code="500">If there is an internal server error</response>
+        </member>
+        <member name="M:Presentation.Controllers.FinanceController.PostAsync(Presentation.Request.CreateFinanceCommand)">
+             <summary>
+             Creates a new Finance.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 POST /api/Finance
+                 {
+                    "month": "New finance",
+                    "incomes": "12000"
+                    "bills": "8000"
+                    "earning": "4000"
+             
+                 }
+            
+             </remarks>
+             <param name="CreateFinanceCommand">The finance to create</param>
+             <returns>A newly created finance</returns>
+             <response code="201">Returns the newly created finance</response>
+             <response code="400">If the finance has invalid property</response>
+             <response code="409">Error validating data</response>
+             <response code="500">Unexpected error</response>
+        </member>
+        <member name="M:Presentation.Controllers.PendingCollectionsController.GetAsync">
+            <summary>Obtain all the active PendingCollection</summary>
+             <remarks>
+             GET /api/PendingCollection
+               </remarks>
+             <response code="200">Returns all the PendingCollection</response>
+             <response code="404">If there are no PendingCollection</response>
+             <response code="500">If there is an internal server error</response>
+        </member>
+        <member name="M:Presentation.Controllers.PendingCollectionsController.PostAsync(Presentation.Request.CreatePendingCollections)">
+             <summary>
+             Creates a new PendingCollection.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 POST /api/PendingCollection
+                 {
+                     "id": "1",
+                     "type": "Salarios",
+                     "cost": "5891",
+                     "description": "Pago de salarios",
+             
+                 }
+            
+             </remarks>
+             <param name="CreatePendingCollectionsCommand">The PendingCollection to create</param>
+             <returns>A newly created PendingCollection</returns>
+             <response code="201">Returns the newly created PendingCollection</response>
+             <response code="400">If the PendingCollection has invalid property</response>
+             <response code="409">Error validating data</response>
+             <response code="500">Unexpected error</response>
+        </member>
+        <member name="M:Presentation.Controllers.PendingController.GetAsync">
+            <summary>Obtain all the active pending</summary>
+             <remarks>
+             GET /api/Pending
+               </remarks>
+             <response code="200">Returns all the pending</response>
+             <response code="404">If there are no pending</response>
+             <response code="500">If there is an internal server error</response>
+        </member>
+        <member name="M:Presentation.Controllers.PendingController.GetSearchAsync(System.String,System.String,System.String)">
+            <summary>Obtain all the active pending</summary>
+             <remarks>
+             GET /api/Pending
+               </remarks>
+             <response code="200">Returns the pending</response>
+             <response code="404">If there are no pending</response>
+             <response code="500">If there is an internal server error</response>
+        </member>
+        <member name="M:Presentation.Controllers.PendingController.GetPendingByIdAsync(System.Int32)">
+            <summary>Obtain all the active pending</summary>
+             <remarks>
+             GET api/v1/Pending/5
+               </remarks>
+             <response code="200">Returns the pending</response>
+             <response code="404">If there are no pending</response>
+             <response code="500">If there is an internal server error</response>
+        </member>
+        <member name="M:Presentation.Controllers.PendingController.PostAsync(Presentation.Request.CreatePendingCommand)">
+             <summary>
+             Creates a new Pending.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 POST /api/Account
+                 {
+                 "name": "Project",
+                 "descriptionTask": "Description",
+                 "dueDate": "2025-06-07",
+                 "assignedTo": "Maria",
+                 "priority": " High-Medium-Low",
+                 "category": "Crop-Production-Operation-Distribution-Market-Specialization",
+                 "state": "Done-ToDo-Doing",
+                 }
+            
+             </remarks>
+             <param name="CreatePendingCommand">The Pending to create</param>
+             <returns>A newly created Pending</returns>
+             <response code="201">Returns the newly created Pending</response>
+             <response code="400">If the Pending has invalid property</response>
+             <response code="409">Error validating data</response>
+             <response code="500">Unexpected error</response>
+        </member>
+        <member name="M:Presentation.Controllers.PendingController.PutAsync(System.Int32,Presentation.Request.UpdatePendingCommand)">
+             <summary>
+             Update a Pending.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 POST /api/Account
+                 {
+                 "descriptionTask": "Description",
+                 "dueDate": "2025-06-07",
+                 "assignedTo": "Maria",
+                 "category": "Crop-Production-Operation-Distribution-Market-Specialization",
+                 "state": "Done-ToDo-Doing",
+                 }
+            
+             </remarks>
+             <param name="CreatePendingCommand">The Pending to create</param>
+             <returns>A newly update Pending</returns>
+             <response code="201">Returns the newly update Pending</response>
+             <response code="400">If the Pending has invalid property</response>
+             <response code="409">Error validating data</response>
+             <response code="500">Unexpected error</response>
+        </member>
+        <member name="M:Presentation.Controllers.PendingController.DeleteAsync(System.Int32)">
+            <summary>Obtain all the active pending</summary>
+             <remarks>
+             DELETE: api/v1/Pending/5
+               </remarks>
+             <response code="200">Returns all the pending</response>
+             <response code="404">If there are no pending</response>
+             <response code="500">If there is an internal server error</response>
+        </member>
+        <member name="M:Presentation.Publishing.Controllers.EmployeeController.GetAsync">
+            <summary>Obtain all the active employee</summary>
+             <remarks>
+             GET /api/v1/employee
+               </remarks>
+             <response code="200">Returns all the employee</response>
+             <response code="404">If there are no employee</response>
+             <response code="500">If there is an internal server error</response>
+        </member>
+        <member name="M:Presentation.Publishing.Controllers.EmployeeController.GetAsync(System.Int32)">
+            <summary>Obtain all the active employee</summary>
+             <remarks>
+             GET /api/v1/employee/5
+               </remarks>
+             <response code="200">Returns all the employee</response>
+             <response code="404">If there are no employee</response>
+             <response code="500">If there is an internal server error</response>
+        </member>
+        <member name="M:Presentation.Publishing.Controllers.EmployeeController.GetSearchAsyncJobAndTeam(System.String,System.Int32)">
+            <summary>Obtain all the active employee</summary>
+             <remarks>
+             GET api/Employee/SearchAsyncJobAndTeam
+               </remarks>
+             <response code="200">Returns all the employee</response>
+             <response code="404">If there are no employee</response>
+             <response code="500">If there is an internal server error</response>
+        </member>
+        <member name="M:Presentation.Publishing.Controllers.EmployeeController.GetSearchJobAsync(System.String)">
+            <summary>Obtain all the active employee</summary>
+             <remarks>
+             GET api/Employee/SearchJob
+               </remarks>
+             <response code="200">Returns all the employee</response>
+             <response code="404">If there are no employee</response>
+             <response code="500">If there is an internal server error</response>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:Presentation.Publishing.Controllers.EmployeeController.PostAsync(Presentation.Request.CreateEmployeeCommand)" -->
+        <member name="M:Presentation.Publishing.Controllers.EmployeeController.DeleteAsync(System.Int32)">
+            <summary>Obtain delete id from employee</summary>
+             <remarks>
+             DELETE /api/v1/employee/5
+               </remarks>
+             <response code="200">Returns the delete employee</response>
+             <response code="404">If there are no employee</response>
+             <response code="500">If there is an internal server error</response>
+        </member>
+        <member name="M:Presentation.TeamController.GetAsync">
+            <summary>Obtain all the active Team</summary>
+             <remarks>
+             GET /api/Team
+               </remarks>
+             <response code="200">Returns all the Team</response>
+             <response code="404">If there are no Team</response>
+             <response code="500">If there is an internal server error</response>
+        </member>
+        <member name="M:Presentation.TeamController.GetAsync(System.Int32)">
+             GET: api/v1/Team/5
+            <summary>Obtain the active teams</summary>
+             <remarks>
+             GET: api/v1/Team/5
+               </remarks>
+             <response code="200">Returns all the team</response>
+             <response code="404">If there are no team</response>
+             <response code="500">If there is an internal server error</response>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:Presentation.TeamController.PostAsync(Presentation.Request.CreateTeamCommand)" -->
+        <member name="M:Presentation.TeamController.DeleteAsync(System.Int32)">
+             DELETE: api/v1/Team/5
+            <summary>Obtain the active teams</summary>
+             <remarks>
+             DELETE api/v1/Team/5
+               </remarks>
+             <response code="200">Returns delete the team</response>
+             <response code="404">If there are no team</response>
+             <response code="500">If there is an internal server error</response>
+        </member>
+        <member name="M:LearningCenter.Presentation.IAM.Controllers.UserController.GetAsync">
+            <summary>Obtain all the active User</summary>
+             <remarks>
+             GET /api/User
+               </remarks>
+             <response code="200">Returns all the User</response>
+             <response code="404">If there are no User</response>
+             <response code="500">If there is an internal server error</response>
+        </member>
+        <member name="M:LearningCenter.Presentation.IAM.Controllers.UserController.RegisterAsync(LearningCenter.Domain.IAM.Models.Comands.SingupCommand)">
+             <summary>
+             Singup a new User.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 POST /api/Account
+                 {
+                 "username": "Jorge Ruiz",
+                 "dni": "28089824",
+                 "ruc": "35355800618",
+                 "companyName": "empresa",
+                 "emailAddress": "user@example.com",
+                 "phone": "809324921", 
+                 "role": "Seller - Farmer - Admin",
+                 "password": "Securepassword123!",
+                 "confirmPassword": "Securepassword123!"
+                 }
+            
+             </remarks>
+             <param name="SinginCommad">The User to create</param>
+             <returns>A newly created User</returns>
+             <response code="201">Returns the newly created User</response>
+             <response code="400">If the User has invalid property</response>
+             <response code="409">Error validating data</response>
+             <response code="500">Unexpected error</response>
+        </member>
+        <member name="M:LearningCenter.Presentation.IAM.Controllers.UserController.LoginAsync(LearningCenter.Domain.IAM.Models.Comands.SigninCommand)">
+             <summary>
+             Login a new User.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 POST /api/Account
+                 {
+                 "username": "Jorge Ruiz",
+                 "password": "Securepassword123!",
+                 }
+            
+             </remarks>
+             <param name="SinginCommad">The User to create</param>
+             <returns>A newly created User</returns>
+             <response code="201">Returns the newly created User</response>
+             <response code="400">If the User has invalid property</response>
+             <response code="409">Error validating data</response>
+             <response code="500">Unexpected error</response>
+        </member>
+        <member name="M:LearningCenter.Presentation.IAM.Controllers.UserController.DeleteAsync(System.Int32)">
+            <summary>Obtain all the active User</summary>
+             <remarks>
+             DELETE: api/User/5
+               </remarks>
+             <response code="200">Returns delete the User</response>
+             <response code="404">If there are no User</response>
+             <response code="500">If there is an internal server error</response>
+        </member>
+    </members>
+</doc>

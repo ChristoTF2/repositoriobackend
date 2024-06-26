@@ -1,0 +1,17 @@
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Infrastructure\bin\Debug\net7.0\LearningCenter.Infraestructure.deps.json
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Infrastructure\bin\Debug\net7.0\LearningCenter.Infraestructure.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Infrastructure\bin\Debug\net7.0\LearningCenter.Infraestructure.pdb
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Infrastructure\bin\Debug\net7.0\LearningCenter.Domain.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Infrastructure\bin\Debug\net7.0\LearningCenter.Shared.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Infrastructure\bin\Debug\net7.0\LearningCenter.Domain.pdb
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Infrastructure\bin\Debug\net7.0\LearningCenter.Shared.pdb
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Infrastructure\obj\Debug\net7.0\LearningCenter.Infraestructure.csproj.AssemblyReference.cache
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Infrastructure\obj\Debug\net7.0\LearningCenter.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Infrastructure\obj\Debug\net7.0\LearningCenter.Infraestructure.AssemblyInfoInputs.cache
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Infrastructure\obj\Debug\net7.0\LearningCenter.Infraestructure.AssemblyInfo.cs
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Infrastructure\obj\Debug\net7.0\LearningCenter.Infraestructure.csproj.CoreCompileInputs.cache
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Infrastructure\obj\Debug\net7.0\LearningCenter.Infraestructure.csproj.CopyComplete
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Infrastructure\obj\Debug\net7.0\LearningCenter.Infraestructure.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Infrastructure\obj\Debug\net7.0\refint\LearningCenter.Infraestructure.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Infrastructure\obj\Debug\net7.0\LearningCenter.Infraestructure.pdb
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Infrastructure\obj\Debug\net7.0\ref\LearningCenter.Infraestructure.dll

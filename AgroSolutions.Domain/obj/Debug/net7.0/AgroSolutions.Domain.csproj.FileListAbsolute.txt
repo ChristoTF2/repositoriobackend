@@ -1,0 +1,45 @@
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Domain\bin\Debug\net7.0\AgroSolutions.Domain.deps.json
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Domain\bin\Debug\net7.0\AgroSolutions.Domain.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Domain\bin\Debug\net7.0\AgroSolutions.Domain.pdb
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Domain\bin\Debug\net7.0\AgroSolutions.Shared.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Domain\bin\Debug\net7.0\AgroSolutions.Shared.pdb
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Domain\obj\Debug\net7.0\AgroSolutions.Domain.csproj.AssemblyReference.cache
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Domain\obj\Debug\net7.0\AgroSolutions.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Domain\obj\Debug\net7.0\AgroSolutions.Domain.AssemblyInfoInputs.cache
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Domain\obj\Debug\net7.0\AgroSolutions.Domain.AssemblyInfo.cs
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Domain\obj\Debug\net7.0\AgroSolutions.Domain.csproj.CoreCompileInputs.cache
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Domain\obj\Debug\net7.0\AgroSolutions.Domain.csproj.CopyComplete
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Domain\obj\Debug\net7.0\AgroSolutions.Domain.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Domain\obj\Debug\net7.0\refint\AgroSolutions.Domain.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Domain\obj\Debug\net7.0\AgroSolutions.Domain.pdb
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Domain\obj\Debug\net7.0\ref\AgroSolutions.Domain.dll
+D:\.NET\Backend web\AgroSolutions_Web_Services\AgroSolutions.Domain\bin\Debug\net7.0\AgroSolutions.Domain.deps.json
+D:\.NET\Backend web\AgroSolutions_Web_Services\AgroSolutions.Domain\bin\Debug\net7.0\AgroSolutions.Domain.dll
+D:\.NET\Backend web\AgroSolutions_Web_Services\AgroSolutions.Domain\bin\Debug\net7.0\AgroSolutions.Domain.pdb
+D:\.NET\Backend web\AgroSolutions_Web_Services\AgroSolutions.Domain\bin\Debug\net7.0\AgroSolutions.Shared.dll
+D:\.NET\Backend web\AgroSolutions_Web_Services\AgroSolutions.Domain\bin\Debug\net7.0\AgroSolutions.Shared.pdb
+D:\.NET\Backend web\AgroSolutions_Web_Services\AgroSolutions.Domain\obj\Debug\net7.0\AgroSolutions.Domain.csproj.AssemblyReference.cache
+D:\.NET\Backend web\AgroSolutions_Web_Services\AgroSolutions.Domain\obj\Debug\net7.0\AgroSolutions.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Backend web\AgroSolutions_Web_Services\AgroSolutions.Domain\obj\Debug\net7.0\AgroSolutions.Domain.AssemblyInfoInputs.cache
+D:\.NET\Backend web\AgroSolutions_Web_Services\AgroSolutions.Domain\obj\Debug\net7.0\AgroSolutions.Domain.AssemblyInfo.cs
+D:\.NET\Backend web\AgroSolutions_Web_Services\AgroSolutions.Domain\obj\Debug\net7.0\AgroSolutions.Domain.csproj.CoreCompileInputs.cache
+D:\.NET\Backend web\AgroSolutions_Web_Services\AgroSolutions.Domain\obj\Debug\net7.0\AgroSolutions.Domain.csproj.CopyComplete
+D:\.NET\Backend web\AgroSolutions_Web_Services\AgroSolutions.Domain\obj\Debug\net7.0\AgroSolutions.Domain.dll
+D:\.NET\Backend web\AgroSolutions_Web_Services\AgroSolutions.Domain\obj\Debug\net7.0\refint\AgroSolutions.Domain.dll
+D:\.NET\Backend web\AgroSolutions_Web_Services\AgroSolutions.Domain\obj\Debug\net7.0\AgroSolutions.Domain.pdb
+D:\.NET\Backend web\AgroSolutions_Web_Services\AgroSolutions.Domain\obj\Debug\net7.0\ref\AgroSolutions.Domain.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Domain\bin\Debug\net7.0\AgroSolutions.Domain.deps.json
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Domain\bin\Debug\net7.0\AgroSolutions.Domain.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Domain\bin\Debug\net7.0\AgroSolutions.Domain.pdb
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Domain\bin\Debug\net7.0\AgroSolutions.Shared.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Domain\bin\Debug\net7.0\AgroSolutions.Shared.pdb
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Domain\obj\Debug\net7.0\AgroSolutions.Domain.csproj.AssemblyReference.cache
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Domain\obj\Debug\net7.0\AgroSolutions.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Domain\obj\Debug\net7.0\AgroSolutions.Domain.AssemblyInfoInputs.cache
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Domain\obj\Debug\net7.0\AgroSolutions.Domain.AssemblyInfo.cs
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Domain\obj\Debug\net7.0\AgroSolutions.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Domain\obj\Debug\net7.0\AgroSolutions.Domain.csproj.CopyComplete
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Domain\obj\Debug\net7.0\AgroSolutions.Domain.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Domain\obj\Debug\net7.0\refint\AgroSolutions.Domain.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Domain\obj\Debug\net7.0\AgroSolutions.Domain.pdb
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Domain\obj\Debug\net7.0\ref\AgroSolutions.Domain.dll

@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>LearningCenter.Domain</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\AgroSolutions.Shared\AgroSolutions.Shared.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Employee\Models\Aggregates\" />
+      <Folder Include="Finance\Models\Aggregates\" />
+      <Folder Include="IAM\Models\Aggregates\" />
+      <Folder Include="PendingCollection\Models\Aggregates\" />
+      <Folder Include="PendingTask\Models\Aggregates\" />
+      <Folder Include="Publishing\Models\Commands\" />
+      <Folder Include="Publishing\Models\Entities\" />
+      <Folder Include="Publishing\Models\Queries\" />
+      <Folder Include="Publishing\Models\Response\" />
+      <Folder Include="Publishing\Models\ValueObjects\" />
+      <Folder Include="Publishing\Repositories\" />
+      <Folder Include="Publishing\Services\" />
+      <Folder Include="Team\Models\Aggregates\" />
+    </ItemGroup>
+
+</Project>

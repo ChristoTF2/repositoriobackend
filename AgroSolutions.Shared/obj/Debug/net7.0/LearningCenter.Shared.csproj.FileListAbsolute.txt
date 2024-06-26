@@ -1,0 +1,11 @@
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Shared\bin\Debug\net7.0\LearningCenter.Shared.deps.json
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Shared\bin\Debug\net7.0\LearningCenter.Shared.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Shared\bin\Debug\net7.0\LearningCenter.Shared.pdb
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Shared\obj\Debug\net7.0\LearningCenter.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Shared\obj\Debug\net7.0\LearningCenter.Shared.AssemblyInfoInputs.cache
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Shared\obj\Debug\net7.0\LearningCenter.Shared.AssemblyInfo.cs
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Shared\obj\Debug\net7.0\LearningCenter.Shared.csproj.CoreCompileInputs.cache
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Shared\obj\Debug\net7.0\LearningCenter.Shared.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Shared\obj\Debug\net7.0\refint\LearningCenter.Shared.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Shared\obj\Debug\net7.0\LearningCenter.Shared.pdb
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\LearningCenter.Shared\obj\Debug\net7.0\ref\LearningCenter.Shared.dll

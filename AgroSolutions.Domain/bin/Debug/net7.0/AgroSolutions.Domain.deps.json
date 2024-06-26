@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "AgroSolutions.Domain/1.0.0": {
+        "dependencies": {
+          "AgroSolutions.Shared": "1.0.0"
+        },
+        "runtime": {
+          "AgroSolutions.Domain.dll": {}
+        }
+      },
+      "AgroSolutions.Shared/1.0.0": {
+        "runtime": {
+          "AgroSolutions.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AgroSolutions.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AgroSolutions.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

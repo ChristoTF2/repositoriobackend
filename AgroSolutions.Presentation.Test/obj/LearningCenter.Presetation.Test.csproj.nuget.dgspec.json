@@ -1,0 +1,572 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Carpeta Hola\\UPC\\AgroSolutions\\BACK END FINAL AHORA ES PERSONAL\\back-end-clean-architecture-ddd-main\\LearningCenter.Presetation.Test\\LearningCenter.Presetation.Test.csproj": {}
+  },
+  "projects": {
+    "E:\\Carpeta Hola\\UPC\\AgroSolutions\\BACK END FINAL AHORA ES PERSONAL\\back-end-clean-architecture-ddd-main\\AgroSolutions.Application\\AgroSolutions.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Carpeta Hola\\UPC\\AgroSolutions\\BACK END FINAL AHORA ES PERSONAL\\back-end-clean-architecture-ddd-main\\AgroSolutions.Application\\AgroSolutions.Application.csproj",
+        "projectName": "AgroSolutions.Application",
+        "projectPath": "E:\\Carpeta Hola\\UPC\\AgroSolutions\\BACK END FINAL AHORA ES PERSONAL\\back-end-clean-architecture-ddd-main\\AgroSolutions.Application\\AgroSolutions.Application.csproj",
+        "packagesPath": "C:\\Users\\CORSAIR\\.nuget\\packages\\",
+        "outputPath": "E:\\Carpeta Hola\\UPC\\AgroSolutions\\BACK END FINAL AHORA ES PERSONAL\\back-end-clean-architecture-ddd-main\\AgroSolutions.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\CORSAIR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\Carpeta Hola\\UPC\\AgroSolutions\\BACK END FINAL AHORA ES PERSONAL\\back-end-clean-architecture-ddd-main\\AgroSolutions.Shared\\AgroSolutions.Shared.csproj": {
+                "projectPath": "E:\\Carpeta Hola\\UPC\\AgroSolutions\\BACK END FINAL AHORA ES PERSONAL\\back-end-clean-architecture-ddd-main\\AgroSolutions.Shared\\AgroSolutions.Shared.csproj"
+              },
+              "E:\\Carpeta Hola\\UPC\\AgroSolutions\\BACK END FINAL AHORA ES PERSONAL\\back-end-clean-architecture-ddd-main\\LearningCenter.Infrastructure\\AgroSolutions.Infraestructure.csproj": {
+                "projectPath": "E:\\Carpeta Hola\\UPC\\AgroSolutions\\BACK END FINAL AHORA ES PERSONAL\\back-end-clean-architecture-ddd-main\\LearningCenter.Infrastructure\\AgroSolutions.Infraestructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Carpeta Hola\\UPC\\AgroSolutions\\BACK END FINAL AHORA ES PERSONAL\\back-end-clean-architecture-ddd-main\\AgroSolutions.Domain\\AgroSolutions.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Carpeta Hola\\UPC\\AgroSolutions\\BACK END FINAL AHORA ES PERSONAL\\back-end-clean-architecture-ddd-main\\AgroSolutions.Domain\\AgroSolutions.Domain.csproj",
+        "projectName": "AgroSolutions.Domain",
+        "projectPath": "E:\\Carpeta Hola\\UPC\\AgroSolutions\\BACK END FINAL AHORA ES PERSONAL\\back-end-clean-architecture-ddd-main\\AgroSolutions.Domain\\AgroSolutions.Domain.csproj",
+        "packagesPath": "C:\\Users\\CORSAIR\\.nuget\\packages\\",
+        "outputPath": "E:\\Carpeta Hola\\UPC\\AgroSolutions\\BACK END FINAL AHORA ES PERSONAL\\back-end-clean-architecture-ddd-main\\AgroSolutions.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\CORSAIR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\Carpeta Hola\\UPC\\AgroSolutions\\BACK END FINAL AHORA ES PERSONAL\\back-end-clean-architecture-ddd-main\\AgroSolutions.Shared\\AgroSolutions.Shared.csproj": {
+                "projectPath": "E:\\Carpeta Hola\\UPC\\AgroSolutions\\BACK END FINAL AHORA ES PERSONAL\\back-end-clean-architecture-ddd-main\\AgroSolutions.Shared\\AgroSolutions.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Carpeta Hola\\UPC\\AgroSolutions\\BACK END FINAL AHORA ES PERSONAL\\back-end-clean-architecture-ddd-main\\AgroSolutions.Shared\\AgroSolutions.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Carpeta Hola\\UPC\\AgroSolutions\\BACK END FINAL AHORA ES PERSONAL\\back-end-clean-architecture-ddd-main\\AgroSolutions.Shared\\AgroSolutions.Shared.csproj",
+        "projectName": "AgroSolutions.Shared",
+        "projectPath": "E:\\Carpeta Hola\\UPC\\AgroSolutions\\BACK END FINAL AHORA ES PERSONAL\\back-end-clean-architecture-ddd-main\\AgroSolutions.Shared\\AgroSolutions.Shared.csproj",
+        "packagesPath": "C:\\Users\\CORSAIR\\.nuget\\packages\\",
+        "outputPath": "E:\\Carpeta Hola\\UPC\\AgroSolutions\\BACK END FINAL AHORA ES PERSONAL\\back-end-clean-architecture-ddd-main\\AgroSolutions.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\CORSAIR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Carpeta Hola\\UPC\\AgroSolutions\\BACK END FINAL AHORA ES PERSONAL\\back-end-clean-architecture-ddd-main\\LearningCenter.Infrastructure\\AgroSolutions.Infraestructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Carpeta Hola\\UPC\\AgroSolutions\\BACK END FINAL AHORA ES PERSONAL\\back-end-clean-architecture-ddd-main\\LearningCenter.Infrastructure\\AgroSolutions.Infraestructure.csproj",
+        "projectName": "AgroSolutions.Infraestructure",
+        "projectPath": "E:\\Carpeta Hola\\UPC\\AgroSolutions\\BACK END FINAL AHORA ES PERSONAL\\back-end-clean-architecture-ddd-main\\LearningCenter.Infrastructure\\AgroSolutions.Infraestructure.csproj",
+        "packagesPath": "C:\\Users\\CORSAIR\\.nuget\\packages\\",
+        "outputPath": "E:\\Carpeta Hola\\UPC\\AgroSolutions\\BACK END FINAL AHORA ES PERSONAL\\back-end-clean-architecture-ddd-main\\LearningCenter.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\CORSAIR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\Carpeta Hola\\UPC\\AgroSolutions\\BACK END FINAL AHORA ES PERSONAL\\back-end-clean-architecture-ddd-main\\AgroSolutions.Domain\\AgroSolutions.Domain.csproj": {
+                "projectPath": "E:\\Carpeta Hola\\UPC\\AgroSolutions\\BACK END FINAL AHORA ES PERSONAL\\back-end-clean-architecture-ddd-main\\AgroSolutions.Domain\\AgroSolutions.Domain.csproj"
+              },
+              "E:\\Carpeta Hola\\UPC\\AgroSolutions\\BACK END FINAL AHORA ES PERSONAL\\back-end-clean-architecture-ddd-main\\AgroSolutions.Shared\\AgroSolutions.Shared.csproj": {
+                "projectPath": "E:\\Carpeta Hola\\UPC\\AgroSolutions\\BACK END FINAL AHORA ES PERSONAL\\back-end-clean-architecture-ddd-main\\AgroSolutions.Shared\\AgroSolutions.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.19, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Carpeta Hola\\UPC\\AgroSolutions\\BACK END FINAL AHORA ES PERSONAL\\back-end-clean-architecture-ddd-main\\LearningCenter.Presentation\\LearningCenter.Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Carpeta Hola\\UPC\\AgroSolutions\\BACK END FINAL AHORA ES PERSONAL\\back-end-clean-architecture-ddd-main\\LearningCenter.Presentation\\LearningCenter.Presentation.csproj",
+        "projectName": "LearningCenter.Presentation",
+        "projectPath": "E:\\Carpeta Hola\\UPC\\AgroSolutions\\BACK END FINAL AHORA ES PERSONAL\\back-end-clean-architecture-ddd-main\\LearningCenter.Presentation\\LearningCenter.Presentation.csproj",
+        "packagesPath": "C:\\Users\\CORSAIR\\.nuget\\packages\\",
+        "outputPath": "E:\\Carpeta Hola\\UPC\\AgroSolutions\\BACK END FINAL AHORA ES PERSONAL\\back-end-clean-architecture-ddd-main\\LearningCenter.Presentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\CORSAIR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\Carpeta Hola\\UPC\\AgroSolutions\\BACK END FINAL AHORA ES PERSONAL\\back-end-clean-architecture-ddd-main\\AgroSolutions.Application\\AgroSolutions.Application.csproj": {
+                "projectPath": "E:\\Carpeta Hola\\UPC\\AgroSolutions\\BACK END FINAL AHORA ES PERSONAL\\back-end-clean-architecture-ddd-main\\AgroSolutions.Application\\AgroSolutions.Application.csproj"
+              },
+              "E:\\Carpeta Hola\\UPC\\AgroSolutions\\BACK END FINAL AHORA ES PERSONAL\\back-end-clean-architecture-ddd-main\\LearningCenter.Infrastructure\\AgroSolutions.Infraestructure.csproj": {
+                "projectPath": "E:\\Carpeta Hola\\UPC\\AgroSolutions\\BACK END FINAL AHORA ES PERSONAL\\back-end-clean-architecture-ddd-main\\LearningCenter.Infrastructure\\AgroSolutions.Infraestructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.19, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Carpeta Hola\\UPC\\AgroSolutions\\BACK END FINAL AHORA ES PERSONAL\\back-end-clean-architecture-ddd-main\\LearningCenter.Presetation.Test\\LearningCenter.Presetation.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Carpeta Hola\\UPC\\AgroSolutions\\BACK END FINAL AHORA ES PERSONAL\\back-end-clean-architecture-ddd-main\\LearningCenter.Presetation.Test\\LearningCenter.Presetation.Test.csproj",
+        "projectName": "LearningCenter.Presetation.Test",
+        "projectPath": "E:\\Carpeta Hola\\UPC\\AgroSolutions\\BACK END FINAL AHORA ES PERSONAL\\back-end-clean-architecture-ddd-main\\LearningCenter.Presetation.Test\\LearningCenter.Presetation.Test.csproj",
+        "packagesPath": "C:\\Users\\CORSAIR\\.nuget\\packages\\",
+        "outputPath": "E:\\Carpeta Hola\\UPC\\AgroSolutions\\BACK END FINAL AHORA ES PERSONAL\\back-end-clean-architecture-ddd-main\\LearningCenter.Presetation.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\CORSAIR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\Carpeta Hola\\UPC\\AgroSolutions\\BACK END FINAL AHORA ES PERSONAL\\back-end-clean-architecture-ddd-main\\AgroSolutions.Application\\AgroSolutions.Application.csproj": {
+                "projectPath": "E:\\Carpeta Hola\\UPC\\AgroSolutions\\BACK END FINAL AHORA ES PERSONAL\\back-end-clean-architecture-ddd-main\\AgroSolutions.Application\\AgroSolutions.Application.csproj"
+              },
+              "E:\\Carpeta Hola\\UPC\\AgroSolutions\\BACK END FINAL AHORA ES PERSONAL\\back-end-clean-architecture-ddd-main\\LearningCenter.Infrastructure\\AgroSolutions.Infraestructure.csproj": {
+                "projectPath": "E:\\Carpeta Hola\\UPC\\AgroSolutions\\BACK END FINAL AHORA ES PERSONAL\\back-end-clean-architecture-ddd-main\\LearningCenter.Infrastructure\\AgroSolutions.Infraestructure.csproj"
+              },
+              "E:\\Carpeta Hola\\UPC\\AgroSolutions\\BACK END FINAL AHORA ES PERSONAL\\back-end-clean-architecture-ddd-main\\LearningCenter.Presentation\\LearningCenter.Presentation.csproj": {
+                "projectPath": "E:\\Carpeta Hola\\UPC\\AgroSolutions\\BACK END FINAL AHORA ES PERSONAL\\back-end-clean-architecture-ddd-main\\LearningCenter.Presentation\\LearningCenter.Presentation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

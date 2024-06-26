@@ -1,0 +1,42 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+
+        <IsPackable>false</IsPackable>
+
+        <RootNamespace>TestProject1LearningCenter.Presetation.Test</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.3.2"/>
+        <PackageReference Include="Moq" Version="4.20.70"/>
+        <PackageReference Include="xunit" Version="2.4.2"/>
+        <PackageReference Include="xunit.runner.visualstudio" Version="2.4.5">
+            <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+            <PrivateAssets>all</PrivateAssets>
+        </PackageReference>
+        <PackageReference Include="coverlet.collector" Version="3.1.2">
+            <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+            <PrivateAssets>all</PrivateAssets>
+        </PackageReference>
+    </ItemGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\AgroSolutions.Application\AgroSolutions.Application.csproj" />
+        <ProjectReference Include="..\LearningCenter.Infrastructure\AgroSolutions.Infraestructure.csproj" />
+        <ProjectReference Include="..\AgroSolutions.Presentation\AgroSolutions.Presentation.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Employee\" />
+      <Folder Include="IAM\" />
+      <Folder Include="PendingTask\" />
+      <Folder Include="Pending\" />
+      <Folder Include="Publishing\" />
+      <Folder Include="Team\" />
+    </ItemGroup>
+
+</Project>

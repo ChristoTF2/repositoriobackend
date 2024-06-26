@@ -1,0 +1,35 @@
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Shared\bin\Debug\net7.0\AgroSolutions.Shared.deps.json
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Shared\bin\Debug\net7.0\AgroSolutions.Shared.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Shared\bin\Debug\net7.0\AgroSolutions.Shared.pdb
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Shared\obj\Debug\net7.0\AgroSolutions.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Shared\obj\Debug\net7.0\AgroSolutions.Shared.AssemblyInfoInputs.cache
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Shared\obj\Debug\net7.0\AgroSolutions.Shared.AssemblyInfo.cs
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Shared\obj\Debug\net7.0\AgroSolutions.Shared.csproj.CoreCompileInputs.cache
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Shared\obj\Debug\net7.0\AgroSolutions.Shared.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Shared\obj\Debug\net7.0\refint\AgroSolutions.Shared.dll
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Shared\obj\Debug\net7.0\AgroSolutions.Shared.pdb
+E:\Carpeta Hola\UPC\AgroSolutions\BACK END FINAL AHORA ES PERSONAL\back-end-clean-architecture-ddd-main\AgroSolutions.Shared\obj\Debug\net7.0\ref\AgroSolutions.Shared.dll
+D:\.NET\Backend web\AgroSolutions_Web_Services\AgroSolutions.Shared\bin\Debug\net7.0\AgroSolutions.Shared.deps.json
+D:\.NET\Backend web\AgroSolutions_Web_Services\AgroSolutions.Shared\bin\Debug\net7.0\AgroSolutions.Shared.dll
+D:\.NET\Backend web\AgroSolutions_Web_Services\AgroSolutions.Shared\bin\Debug\net7.0\AgroSolutions.Shared.pdb
+D:\.NET\Backend web\AgroSolutions_Web_Services\AgroSolutions.Shared\obj\Debug\net7.0\AgroSolutions.Shared.csproj.AssemblyReference.cache
+D:\.NET\Backend web\AgroSolutions_Web_Services\AgroSolutions.Shared\obj\Debug\net7.0\AgroSolutions.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Backend web\AgroSolutions_Web_Services\AgroSolutions.Shared\obj\Debug\net7.0\AgroSolutions.Shared.AssemblyInfoInputs.cache
+D:\.NET\Backend web\AgroSolutions_Web_Services\AgroSolutions.Shared\obj\Debug\net7.0\AgroSolutions.Shared.AssemblyInfo.cs
+D:\.NET\Backend web\AgroSolutions_Web_Services\AgroSolutions.Shared\obj\Debug\net7.0\AgroSolutions.Shared.csproj.CoreCompileInputs.cache
+D:\.NET\Backend web\AgroSolutions_Web_Services\AgroSolutions.Shared\obj\Debug\net7.0\AgroSolutions.Shared.dll
+D:\.NET\Backend web\AgroSolutions_Web_Services\AgroSolutions.Shared\obj\Debug\net7.0\refint\AgroSolutions.Shared.dll
+D:\.NET\Backend web\AgroSolutions_Web_Services\AgroSolutions.Shared\obj\Debug\net7.0\AgroSolutions.Shared.pdb
+D:\.NET\Backend web\AgroSolutions_Web_Services\AgroSolutions.Shared\obj\Debug\net7.0\ref\AgroSolutions.Shared.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Shared\bin\Debug\net7.0\AgroSolutions.Shared.deps.json
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Shared\bin\Debug\net7.0\AgroSolutions.Shared.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Shared\bin\Debug\net7.0\AgroSolutions.Shared.pdb
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Shared\obj\Debug\net7.0\AgroSolutions.Shared.csproj.AssemblyReference.cache
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Shared\obj\Debug\net7.0\AgroSolutions.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Shared\obj\Debug\net7.0\AgroSolutions.Shared.AssemblyInfoInputs.cache
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Shared\obj\Debug\net7.0\AgroSolutions.Shared.AssemblyInfo.cs
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Shared\obj\Debug\net7.0\AgroSolutions.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Shared\obj\Debug\net7.0\AgroSolutions.Shared.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Shared\obj\Debug\net7.0\refint\AgroSolutions.Shared.dll
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Shared\obj\Debug\net7.0\AgroSolutions.Shared.pdb
+C:\Users\Cespi\Downloads\webcapeta\AgroSolutions_Web_Services-development\AgroSolutions.Shared\obj\Debug\net7.0\ref\AgroSolutions.Shared.dll
